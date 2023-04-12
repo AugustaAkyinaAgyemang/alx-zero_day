@@ -1,1 +1,1 @@
-My first readme, and i am so picking up.
+My first readme, and I am so picking up.
